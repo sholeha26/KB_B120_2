@@ -8,8 +8,8 @@
 
 ### Job Desk
 - Mar'atus Sholeha (Data Collecting, Data Processing, Evaluasi)
-- Rista Safitri (Data Collecting, Evaluasi)
-- Krisdayanti (Data Collecting, Evaluasi)
+- Rista Safitri (Data Collecting, Data Analysis dan Visualisasi, Evaluasi)
+- Krisdayanti (Data Collecting, Data Modelling, Evaluasi)
 
 ### Penjelasan Dataset
 
