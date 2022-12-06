@@ -1,10 +1,11 @@
-# KB_B120_2
+<h1 align = center>IDENTIFIKASI KOMENTAR POSITIF,NEUTRAL DAN NEGATIF DI YOUTUBE</h1>
+<img src="logounmul.png" height="200" widht = "200"></img>
 
-# KELOMPOK 2 KB1 2020
-### Anggota Kelompok :
-- 2009106067   Mar'atus Sholeha(ketua)
-- 2009106058   Rista Safitri 
-- 2009106064   Krisdayanti
+<h1 align=center>KELOMPOK 2 KB1 2020</h1>
+<h2 align=center>Anggota Kelompok : </h2>
+<p align = center><b>2009106067   Mar'atus Sholeha(ketua)</b><p>
+<p align=center><b>2009106058   Rista Safitri </b><p>
+<p align=center><b>2009106064   Krisdayanti </b><p>
 
 ### Job Desk
 - Mar'atus Sholeha (Data Collecting, Data Processing, Evaluasi)
